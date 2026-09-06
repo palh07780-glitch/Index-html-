@@ -344,8 +344,8 @@ Contact on WhatsApp
 
 <b>Email:</b>
 
-<a href="mailto:hp938571@gmail.com">
-hp938571@gmail.com
+<a href="mailto:palh07780@gmail.com">
+palh07780gmail.com
 </a>
 
 </p>
